@@ -2,6 +2,11 @@
 Changelog
 =========
 
+0.24.1 (2024-11-20)
+===================
+- Verbose log displays correct parameter name: asyncio_default_fixture_loop_scope
+
+
 0.24.0 (2024-08-22)
 ===================
 - BREAKING: Updated minimum supported pytest version to v8.2.0
